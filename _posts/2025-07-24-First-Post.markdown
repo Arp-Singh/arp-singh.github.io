@@ -14,8 +14,16 @@ Everyone has a tech log nowadays and I thought to myself, why shouldn't I?
 You can expect to see the following:
 
 
-* [EXPLORATION] denotes a new concept I'm currently exploring.
-* [INSIGHT] denotes something I have learned through research or practical means.
-* [PROJECT] denotes a project that I am currently working on, which will feature a link to the project.
+* **[EXPLORATION]** denotes a new concept I'm currently exploring.
+* **[INSIGHT]** denotes something I have learned through research or practical means.
+* **[PROJECT]** denotes a project that I am currently working on, which will feature a link to the project.
 
-There will be
+There will be some special articles every now and again that are denoted by **[OFF-TOPIC]**. These will be not necessarily be related to anything technical but more of a personal nature. Things like games, cooking/baking and anything related to me as a person.
+
+**So if you enjoyed what you heard, then why not RSS the blog?**
+
+
+*Have lovely day, as always!*
+
+*Signing off,*
+*Arp*
